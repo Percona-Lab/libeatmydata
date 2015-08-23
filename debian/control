@@ -2,7 +2,7 @@ Source: libeatmydata
 Section: libdevel
 Priority: extra
 Maintainer: Stewart Smith <stewart@flamingspork.com>
-Build-Depends: debhelper (>= 8.0.0)
+Build-Depends: debhelper (>= 8.0.0), autoconf, automake
 Standards-Version: 3.9.2
 Homepage: https://launchpad.net/libeatmydata
 
