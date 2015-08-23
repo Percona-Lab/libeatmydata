@@ -1,5 +1,5 @@
 Source: libeatmydata
-Section: main
+Section: libdevel
 Priority: extra
 Maintainer: Stewart Smith <stewart@flamingspork.com>
 Build-Depends: debhelper (>= 8.0.0)
